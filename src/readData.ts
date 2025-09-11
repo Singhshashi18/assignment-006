@@ -1,3 +1,7 @@
+export function getUserCount(): number {
+  const data = readData();
+  return data.users.length;
+}
 import * as fs from 'fs';
 
 export function readData(): any {
