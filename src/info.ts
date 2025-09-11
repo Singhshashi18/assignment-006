@@ -1,3 +1,6 @@
+export function getProjectSummary(): string {
+  return `${projectInfo.name} (${projectInfo.type}) - v${projectInfo.version}`;
+}
 export const projectInfo = {
   name: 'assignment-006',
   type: 'Node.js + TypeScript',
