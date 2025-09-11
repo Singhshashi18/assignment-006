@@ -1,3 +1,6 @@
+export function greetNight(name: string): string {
+  return `Good night, ${name}!`;
+}
 export function greetEvening(name: string): string {
   return `Good evening, ${name}!`;
 }
