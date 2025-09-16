@@ -3,7 +3,7 @@
 A simple Node.js project using TypeScript.
 
 ## Scripts
-- `npm run build` — Compile TypeScript files to JavaScript
+- `npm run build` — Compile TypeScript files to JavaScript 
 - `npm start` — Run the compiled JavaScript
 
 ## Project Structure
